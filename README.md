@@ -2,6 +2,7 @@
   <img src="https://www.eurostatgroup.nl/wp-content/uploads/2022/01/Logo-EUROSTAT-CMJN-sans-dou-yee.png"/>
 </p>
 <h1 align="center">Eurostat API SDK for PHP</h1>
+
 ## Requirements ##
 
 To use the Eurostatgroup API SDK, the following things are required:
