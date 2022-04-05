@@ -1,12 +1,12 @@
 <?php
 
-namespace Eurostatgroup\Api\Endpoints;
+namespace Eurostatgroup\PhpSdk\Endpoints;
 
-use Eurostatgroup\Api\EurostatgroupClient;
-use Eurostatgroup\Api\Exceptions\ApiException;
-use Eurostatgroup\Api\Resources\Collection;
-use Eurostatgroup\Api\Resources\Resource;
-use Eurostatgroup\Api\Resources\ResourceFactory;
+use Eurostatgroup\PhpSdk\EurostatgroupClient;
+use Eurostatgroup\PhpSdk\Exceptions\ApiException;
+use Eurostatgroup\PhpSdk\Resources\Collection;
+use Eurostatgroup\PhpSdk\Resources\Resource;
+use Eurostatgroup\PhpSdk\Resources\ResourceFactory;
 
 abstract class EndpointAbstract
 {
