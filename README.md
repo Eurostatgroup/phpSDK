@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.eurostatgroup.nl/wp-content/uploads/2022/01/Logo-EUROSTAT-CMJN-sans-dou-yee.png" width="280" height="128"/>
+  <img src="https://www.eurostatgroup.nl/wp-content/uploads/2022/01/Logo-EUROSTAT-CMJN-sans-dou-yee.png"/>
 </p>
 <h1 align="center">Eurostat API SDK for PHP</h1>
 ## Requirements ##
