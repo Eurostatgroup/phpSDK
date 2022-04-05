@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Eurostat API SDK for PHP</h1>
 ## Requirements ##
+
 To use the Eurostatgroup API SDK, the following things are required:
 
 + Get yourself a free [Eurostatgroup api account](https://www.api.eurostatgroup.nl/signup). No sign up costs.
