@@ -1,0 +1,35 @@
+{
+  "name": "eurostatgroup/php-sdk",
+  "description": "The php sdk for our rest api",
+  "homepage": "https://docs.eurostatgroup.nl",
+  "require": {
+    "php": "^7.0",
+    "composer/ca-bundle": "^1.2"
+  },
+  "require-dev": {
+    "guzzlehttp/guzzle": "7.0",
+    "phpunit/phpunit": "9.5.20"
+  },
+  "license": "BSD-2-Clause",
+  "autoload": {
+    "psr-4": {
+      "Eurostatgroup\\PhpSdk\\": "src/"
+    }
+  },
+    "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/",
+      "Tests\\Eurostatgroup\\Api\\": "tests/Eurostatgroup/API/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pepijn Dik",
+      "email": "pepijn@pdik.nl"
+    }
+  ],
+  "suggest": {
+    "eurostatgroup/oauth2-php": "Use OAuth to authenticate with the Eurostatgroup API. This is needed for some endpoints. Visit https://docs.eurostatgroup.nl/ for more information."
+  },
+  "minimum-stability": "dev"
+}
