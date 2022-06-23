@@ -24,7 +24,7 @@ By far the easiest way to install the Eurostatgroup API SDK is to require it wit
         }
     }
 ## API documentation ##
-If you wish to learn more about our API, please visit the [Eurostatgroup Api Developer portal](https://docs.eurostatgroup.nl). API Documentation is available in English.
+If you wish to learn more about our API, please visit the [Eurostatgroup Api Developer portal](https://developer.eurostatgroup.nl). API Documentation is available in English.
 
 ## License ##
 [BSD (Berkeley Software Distribution) License](https://opensource.org/licenses/bsd-license.php).
